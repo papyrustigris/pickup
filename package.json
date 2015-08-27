@@ -21,6 +21,7 @@
   "homepage": "https://github.com/papyrustigris/pickup#readme",
   "dependencies": {
     "express": "^4.13.3",
+    "mongodb": "^2.0.42",
     "socket.io": "^1.3.6"
   }
 }
